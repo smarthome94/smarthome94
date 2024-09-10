@@ -36,7 +36,7 @@ a:focus {
 }
 
 .btn:hover {
-  background-color: #ced4da;
+  background-color: #daced1;
 }
 
 blockquote {
@@ -267,12 +267,13 @@ blockquote {
 
 /* assessibility */
 #assessibility {
-  color: white;
+  color: rgb(12, 231, 49);
   background-image: url(../img/infinite-loop-02.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
   position: relative;
+  background: #357;
 }
 
 @media (max-width: 991px) {
